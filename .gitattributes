@@ -1,0 +1,8 @@
+# Укажите, какие типы файлов должны использовать LF
+*.ts text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.gitignore text eol=lf
+
+# Укажите, какие типы файлов должны использовать CRLF
+*.bat text eol=crlf
